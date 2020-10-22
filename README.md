@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I was a former senior developer of Alibaba for three years.After leaving it, I joined a blockchain company as the core developer.
+- 🌱 I was a former senior developer of Alibaba for three years.
+- 🤔 After leaving it, I joined a blockchain company as the Core developer.
 - 🔭 I’m currently working on ChainX.org.
 - 👯 I’m looking to collaborate on blockchain.
 
