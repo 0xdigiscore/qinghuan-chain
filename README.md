@@ -14,7 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on ChainX.org
+- 🌱 I was a former senior developer of Alibaba for three years.After leaving it, I joined a blockchain company as the core developer.
+- 🔭 I’m currently working on ChainX.org.
+- 👯 I’m looking to collaborate on blockchain.
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=qinghuan-chain&show_icons=true&theme=radical)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qinghuan-chain&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=qinghuan-chain&show_icons=true&theme=radical) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qinghuan-chain&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
